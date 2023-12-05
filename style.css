@@ -1,0 +1,18 @@
+li {
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    border: 1px solid red;
+}
+
+.fizz {
+    background-color: green;
+}
+
+.buzz {
+    background-color: yellow;
+}
+
+.fizzbuzz {
+    background-color: red;
+}
